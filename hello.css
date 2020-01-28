@@ -1,0 +1,26 @@
+#head {
+
+   color: rgb(12, 1, 1) ;
+}
+.pageall{
+    background-color: rgb(22, 130, 253);
+    margin: 0 auto;
+    margin-top: -17px;
+    text-align: center;
+    width: 950px;
+    height: 1200px;
+}
+#whoami {
+    color: black;
+    font-size: 22px;
+}
+#stories {
+    color: black;
+    font-size: 22px;
+}#projects {
+    color: black;
+    font-size: 22px;
+}#books {
+    color: black;
+    font-size: 22px;
+}
