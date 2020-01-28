@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>selcuk tatar's website AKA tansionline  </title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='hello.css'>
+    <style>
+    a:link, a:visited {
+        background-color: rgb(22, 130, 253);
+        color: black;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }
+
+      a:hover, a:active {
+        background-color: rgb(146, 140, 140);
+      }
+    </style>
+    <script data-ad-client="pub-5096172214175651" async src="https://pagead2.googlesyndication.com/
+pagead/js/adsbygoogle.js"></script>
+</head>
+<body>
+    <div class="pageall">
+    <div id="head">
+        <h1>selcuk tatar's website</h1>
+    </div>
+    <h2>^^</h2>
+    <h1>who is selcuk tatar ?</h1>
+    <div id="whoami">
+        <p>Hello, internet's people. im selcuk tatar and im student.</p> <p>Sometimes i learn new something and i wanna share to internet's people.</p>
+        <p>This website created by me and if you want you can do this. This is so basic. Believe me!</p>
+    </div>
+    <br> <h2>^^</h2>
+    <div id="stories">
+        <h1>stories</h1>
+        nothing...
+    </div>
+    <br><h2>^^</h2>
+    <div id="projects">
+        <h1>projects</h1>
+        <a href="https://github.com/ozgrozer/mdg" target="_blank" >github manavgat community </a>
+    </div>
+    <h2>^^</h2>
+    <div id="books">
+        <h1>books </h1>
+        <p> nothing...</p>
+    </div>
+    <br> <h2>^^</h2>
+    <div id="socialmedia">
+        <h3>social media</h3>
+        <a href="https://twitter.com/tansionline" target="_blank">Twitter</a> &emsp; <a href="https://github.com/tansionline" target="_blank">Github</a>
+      </div>
+
+</div>
+<script src='main.js'></script>
+</body>
+
+</html>
